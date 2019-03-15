@@ -9,7 +9,7 @@ In This project I've explored and visualized. the **Loan Data from Prosper** Thi
 Here's The Linkes to My Tableau Story:
 - [A Story about the "Prosper" Before Feedback](https://public.tableau.com/profile/shimaa6990#!/vizhome/AStoryabouttheProsper/Story1) 
 
-- [A Story about the "Prosper" After Feedback](https://public.tableau.com/profile/shimaa6990#!/vizhome/AStoryabouttheProsper_2/Story12) 
+- [A Story about the "Prosper" After Feedback](https://public.tableau.com/profile/shimaa6990#!/vizhome/StoryaboutProsper_/Story1) 
 
 ## Table of Contents
 - [Introduction about Prosper](#intro)
